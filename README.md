@@ -1,6 +1,6 @@
 <div align = "center">
   
-# bouncing-ball-game
+# Bouncing-ball-game
 This project is a basic game using HTML5 Canvas and JavaScript where a ball bounces to the location you click on the canvas.
 
 <a href= "https://shaziasheikh01.github.io/Click-to-bouncing-ball-game/"><strong>➥ Live Demo</strong></a>
@@ -9,7 +9,7 @@ This project is a basic game using HTML5 Canvas and JavaScript where a ball boun
 
 ## Technogy used 
 * HTML5 canvas
-* css3
+* Css3
 * JavaScript
 
 ## Contact 
