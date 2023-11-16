@@ -7,7 +7,7 @@ canvas {
 
 body {
     background-color: rgb(233, 197, 233);
-    background-image: url(background.jpg);
+    background-image: url(/Click-to-bouncing-ball-game/background.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
